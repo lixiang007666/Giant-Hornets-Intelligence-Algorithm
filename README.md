@@ -1,0 +1,2 @@
+# Giant_Hornets_Intelligence_Algorithm
+ 通过元胞自动机和CNN预测华盛顿州亚洲大黄蜂分布和分类
